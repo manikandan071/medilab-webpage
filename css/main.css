@@ -1,0 +1,157 @@
+.container{
+    width: 1117px;
+    margin: auto;
+    outline: solid 2px red;
+}
+.flex-quickcontact{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    outline: solid 2px red;
+}
+.flex-quickaccess{
+    display: flex;
+}
+.flex-quickaccess .title{
+    width: 30%;
+    height: 79px;
+ 
+    
+}
+.flex-concept{
+    display: flex;
+
+}
+.flex-concept .concept-1{
+    width: 34%;
+    height: 450px;
+    outline: solid 2px red;
+}
+.flex-concept .concept{
+    width: 22%;
+    height: 450px;
+    outline: solid 2px red;
+}
+.flex-purpose{
+    display: flex;
+}
+.purpose-photo{
+    width: 41%;
+    height: 730px;
+    outline: solid 2px red;
+}
+.purpose-text{
+    width: 59%;
+    height: 730px;
+    outline: solid 2px red;  
+}
+.flex-achivements{
+    display: flex;
+}
+.flex-achivements .achives{
+    width: 25%;
+    height: 207px;
+    outline: solid 2px red;
+}
+.flex-services{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-services .service{
+    width: 33.33%;
+    height: 340px;
+    outline: solid 2px red;
+}
+.flex-appointment{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    outline: solid 2px red;
+}
+.flex-departments{
+   display: flex;
+}
+.flex-departments .department-list{
+    width: 25%;
+    height: 200px;
+    outline: solid 2px red;
+}
+.flex-departments .department-text{
+    width: 75%;
+    height: 200px;
+    outline: solid 2px red;
+}
+.flex-profile{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-profile .profile{
+    width: 50%;
+    height: 200px;
+    outline: solid 2px red;
+}
+.flex-faq{
+    display: flex;
+    justify-content: center;
+    height: 650px;
+    outline: solid 2px red;
+}
+.flex-feedback{
+    display: flex;
+}
+.flex-feedback .feed-back{
+    width: 50%;
+    height: 410px;
+    outline: solid 2px red;
+}
+.flex-gallery{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    outline: solid 2px red;
+}
+.flex-location{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    outline: solid 2px red;
+}
+.flex-contact{
+    display: flex;
+}
+.flex-contact .place{
+    width: 40%;
+    height: 443px;
+    outline: solid 2px red;
+}
+.flex-contact .sms{
+    width: 60%;
+    height: 443px;
+    outline: solid 2px red;  
+}
+.flex-footer{
+    display: flex;
+}
+.address,
+.ourservice{
+    width: 280px;
+    height: 340px;
+    outline: solid 2px red;
+}
+.usefullink{
+    width: 190px;
+    height: 340px;
+    outline: solid 2px red;  
+}
+.join{
+    width: 367px;
+    height: 340px;
+    outline: solid 2px red;
+}
+.flex-legel{
+    display: flex;
+    justify-content: space-between;
+    height: 95px;
+    outline: solid 2px red;
+
+}
